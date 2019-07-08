@@ -1,0 +1,2 @@
+- Divers exercices d'apprentissage du Cobol
+- réalisation d'un projet pratique
