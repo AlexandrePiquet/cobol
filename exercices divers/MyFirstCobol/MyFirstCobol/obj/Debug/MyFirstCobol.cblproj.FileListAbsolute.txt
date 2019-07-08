@@ -1,0 +1,8 @@
+c:\users\stagaire\source\repos\MyFirstCobol\MyFirstCobol\bin\Debug\MyFirstCobol.exe
+c:\users\stagaire\source\repos\MyFirstCobol\MyFirstCobol\bin\Debug\MyFirstCobol.pdb
+c:\users\stagaire\source\repos\MyFirstCobol\MyFirstCobol\bin\Debug\MyFirstCobol.MyFirstCobol_Program1.idy
+c:\users\stagaire\source\repos\MyFirstCobol\MyFirstCobol\obj\Debug\MyFirstCobol.cblprojAssemblyReference.cache
+c:\users\stagaire\source\repos\MyFirstCobol\MyFirstCobol\obj\Debug\MyFirstCobol.cblproj.CoreCompileInputs.cache
+c:\users\stagaire\source\repos\MyFirstCobol\MyFirstCobol\obj\Debug\MyFirstCobol.MyFirstCobol_Program1.idy
+c:\users\stagaire\source\repos\MyFirstCobol\MyFirstCobol\obj\Debug\MyFirstCobol.exe
+c:\users\stagaire\source\repos\MyFirstCobol\MyFirstCobol\obj\Debug\MyFirstCobol.pdb

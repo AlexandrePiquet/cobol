@@ -1,0 +1,8 @@
+C:\Users\Stagaire\source\repos\EtatCivil\EtatCivil\bin\Debug\EtatCivil.exe
+C:\Users\Stagaire\source\repos\EtatCivil\EtatCivil\bin\Debug\EtatCivil.pdb
+C:\Users\Stagaire\source\repos\EtatCivil\EtatCivil\bin\Debug\EtatCivil.EtatCivil_Program1.idy
+C:\Users\Stagaire\source\repos\EtatCivil\EtatCivil\obj\Debug\EtatCivil.cblprojAssemblyReference.cache
+C:\Users\Stagaire\source\repos\EtatCivil\EtatCivil\obj\Debug\EtatCivil.cblproj.CoreCompileInputs.cache
+C:\Users\Stagaire\source\repos\EtatCivil\EtatCivil\obj\Debug\EtatCivil.EtatCivil_Program1.idy
+C:\Users\Stagaire\source\repos\EtatCivil\EtatCivil\obj\Debug\EtatCivil.exe
+C:\Users\Stagaire\source\repos\EtatCivil\EtatCivil\obj\Debug\EtatCivil.pdb

@@ -1,0 +1,8 @@
+C:\Users\Stagaire\source\repos\gestionbanque\gestionbanque\obj\Debug\gestionbanque.cblprojAssemblyReference.cache
+C:\Users\Stagaire\source\repos\gestionbanque\gestionbanque\obj\Debug\gestionbanque.cblproj.CoreCompileInputs.cache
+C:\Users\Stagaire\source\repos\gestionbanque\gestionbanque\bin\Debug\gestionbanque.exe
+C:\Users\Stagaire\source\repos\gestionbanque\gestionbanque\bin\Debug\gestionbanque.pdb
+C:\Users\Stagaire\source\repos\gestionbanque\gestionbanque\bin\Debug\gestionbanque.gestionbanque_Program1.idy
+C:\Users\Stagaire\source\repos\gestionbanque\gestionbanque\obj\Debug\gestionbanque.gestionbanque_Program1.idy
+C:\Users\Stagaire\source\repos\gestionbanque\gestionbanque\obj\Debug\gestionbanque.exe
+C:\Users\Stagaire\source\repos\gestionbanque\gestionbanque\obj\Debug\gestionbanque.pdb
